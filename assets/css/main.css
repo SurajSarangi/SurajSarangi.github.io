@@ -662,6 +662,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
+			height: 20vh;
 		}
 
 		.image.left, .image.right {
@@ -721,7 +722,7 @@ input, select, textarea {
 		}
 
 /* List */
-
+	
 	ol {
 		list-style: decimal;
 		margin: 0 0 2rem 0;
@@ -770,7 +771,15 @@ input, select, textarea {
 		dl dd {
 			margin-left: 2rem;
 		}
-
+	.exp-flex {
+		display: flex;
+	}
+	.exp-flex div {
+		flex: 50%;
+	}
+	.square{
+		list-style-type: square;
+	}
 /* Actions */
 
 	ul.actions {
