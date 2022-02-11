@@ -24,6 +24,8 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+        Pinterest (in.pinterest.com)
+        WallpaperCave (wallpapercave.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
